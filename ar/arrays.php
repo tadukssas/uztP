@@ -1,4 +1,3 @@
-
 <?php
 $array = array(
     array(
@@ -18,7 +17,6 @@ $array = array(
      'Color' => 'Pink',
        'Element' => 'Water',
        'Likes' => 'Dancing',
-       ),
- 
+       )
 );
 ?>
